@@ -1,0 +1,32 @@
+name: ebm-learn
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+- python=3.11
+- scikit-learn
+- numpy
+- pandas
+- scipy
+- matplotlib
+- pytorch
+- torchvision
+- torchaudio
+# - pytorch-cuda=12.1
+- pytest
+- pip
+- tqdm
+- statsmodels
+- seaborn
+- ipython
+- jupyterlab
+- jupytext
+- htop  # no more black bars in htop in tmux on remote cluster
+- xgboost
+- lightgbm
+- pip:
+  - pytest-cov
+  - fastprogress
+  - wandb

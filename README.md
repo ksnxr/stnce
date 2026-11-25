@@ -23,6 +23,7 @@ Molecule experiments.
 ```
 @inproceedings{yu2026stnce,
 	title = {Learning {Energy}-{Based} {Models} from {Stochastic} {Interpolants} using {Spatiotemporal} {Differences}},
+	url = {https://openreview.net/forum?id=QnHvCvmOn6},
 	booktitle = {The {Fortieth} {Annual} {Conference} on {Neural} {Information} {Processing} {Systems}},
 	author = {Yu, Hanlin and OuYang, RuiKang and Kaushik, Partha and Klami, Arto and Gutmann, Michael U. and Chehab, Omar},
 	year = {2026},
